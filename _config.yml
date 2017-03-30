@@ -1,3 +1,5 @@
+
+baseurl: /Demoblog
 # Dependencies
 markdown:         redcarpet
 highlighter:      pygments
